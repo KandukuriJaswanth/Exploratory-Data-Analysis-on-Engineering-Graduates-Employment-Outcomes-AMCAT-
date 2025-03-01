@@ -1,6 +1,6 @@
 # Exploratory-Data-Analysis-on-Engineering-Graduates-Employment-Outcomes-AMCAT-
 
-# The AMCAT (Aspiring Minds Computer Adaptive Test) is a widely recognized assessment designed to evaluate candidates’ aptitude, reasoning, technical proficiency, and domain knowledge. It provides valuable insights into individual strengths and areas for improvement while offering recruiters standardized metrics to assess job readiness.
+ The AMCAT (Aspiring Minds Computer Adaptive Test) is a widely recognized assessment designed to evaluate candidates’ aptitude, reasoning, technical proficiency, and domain knowledge. It provides valuable insights into individual strengths and areas for improvement while offering recruiters standardized metrics to assess job readiness.
 
 This project conducted a comprehensive analysis of AMCAT data through data preprocessing, exploratory data analysis (EDA), and visualization techniques. Utilizing the Interquartile Range (IQR) method, we identified anomalies that could impact performance evaluation. The study examined score distributions, correlations across skill areas, and candidate performance trends to derive meaningful insights.
 
